@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authrncrypt",
+        "uuid": 27859528,
+        "checksum": "xy35o"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
